@@ -1,0 +1,17 @@
+Using all that you have learned from the classes about loops and structures as well as the code 
+that I have given you here, your assignment is to fit the two parameter 
+model to each session from 4 monkeys and make a swarm or violin plot of the 
+learning rates and inverse parameters temperatures from the 8 sessions for each subject.
+
+Each plot should have one violin per subject.
+
+given a list LR_list and a list of strings of the form
+
+HINT: A simple approach to this problem is to use a FOR loop and maybe two together.
+
+Please send the file with the two plots to me peter.rudebeck@mssm.edu 
+as a single .pdf before the start of the next class on 1/29/2026.
+
+When you send the single .pdf file please put your last name 
+at the start of the file name (e.g. Rudebeck_NDS_class3_homework.pdf).
+
